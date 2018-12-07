@@ -66,7 +66,7 @@ LOCK TABLES `alunos` WRITE;
 
 INSERT INTO `alunos` (`id`, `nome`, `email`, `senha`)
 VALUES
-	(1,'Bonieky','suporte@b7web.com.br','202cb962ac59075b964b07152d234b70'),
+	(1,'Jonatan','jonatanmachado35@gmail.com','202cb962ac59075b964b07152d234b70'),
 	(2,'Aluno de teste','aluno@teste.com','202cb962ac59075b964b07152d234b70');
 
 /*!40000 ALTER TABLE `alunos` ENABLE KEYS */;
